@@ -1,0 +1,31 @@
+.headimg img{
+    width: 1360px;
+    height: 300px;
+}
+
+.ab{
+    width: 800px;
+    margin-left: 300px;
+    padding-top: 15px;
+    text-align: center;
+}
+.ab1 h1{
+    color: rgb(62, 67, 136);
+}
+.ab1 p{
+    font-size: medium;
+}
+.ab2 h1{
+    color: rgb(62, 67, 136);
+}
+.ab2 p{
+    font-size: medium;
+}
+.ab3 h1{
+    color: rgb(62, 67, 136);
+}
+.ab3 ul{
+    font-size: medium;
+    padding-right: 5%;
+    list-style: inside;
+}

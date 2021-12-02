@@ -1,0 +1,37 @@
+
+.clay-1 h1{
+    font-size: 25px;
+  background: -webkit-linear-gradient(rgb(183, 209, 111), rgb(60, 136, 150));
+  padding-top: 1%;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.clay-1 p{
+ font-size: medium;
+ padding-top: 1%;
+}
+.clayh2 h2{
+    font-size: 25px;
+  background: -webkit-linear-gradient(#eee, #333);
+  padding-top: 1%;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.clay-img{
+    height: 400px;
+    width: 1000px;
+    padding-top: 5px;
+}
+.clay-img::after{
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.ytvideo {
+    padding-top: 5rem;
+    padding-left: 15rem;
+    background-color: #eee;
+}
+.ytvideo h3{
+padding-left: 30 rem;}
